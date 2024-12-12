@@ -1,2 +1,2 @@
-I have use recently learnt LaTeX while writing these solutions. There might be some typos.
+I have used recently learnt LaTeX while typesetting these solutions to last few of several assignments given during this semester. There might be some typos.
 "Beauty lies in imperfection!"
